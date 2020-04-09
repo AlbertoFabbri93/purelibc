@@ -1,0 +1,6 @@
+purelibc (1.0.2-1) unstable; urgency=medium
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Alberto Fabbri <solo.albif@gmail.com>  Tue, 24 Mar 2020 21:12:34 +0100

@@ -3,7 +3,7 @@ Section: libs
 Priority: optional
 Maintainer: Debian VirtualSquare Team <virtualsquare@cs.unibo.it>
 Uploaders: Alberto Fabbri <solo.albif@gmail.com>, Renzo Davoli <renzo@cs.unibo.it>, Andrea Capriotti <capriott@debian.org>
-Build-Depends: cmake, debhelper (>=11~)
+Build-Depends: debhelper (>=11~), cmake (>= 3.13)
 Standards-Version: 4.1.4
 Vcs-Git: https://github.com/virtualsquare/purelibc.git
 

@@ -1,9 +1,10 @@
 Source: purelibc
+Section: libs
 Priority: optional
-Maintainer: Alberto Fabbri <solo.albif@gmail.com>
+Maintainer: Debian VirtualSquare Team <virtualsquare@cs.unibo.it>
+Uploaders: Alberto Fabbri <solo.albif@gmail.com>, Renzo Davoli <renzo@cs.unibo.it>, Andrea Capriotti <capriott@debian.org>
 Build-Depends: cmake, debhelper (>=11~)
 Standards-Version: 4.1.4
-Section: libs
 Vcs-Git: https://github.com/virtualsquare/purelibc.git
 
 Package: purelibc

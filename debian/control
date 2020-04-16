@@ -24,7 +24,6 @@ Description: Overlay library for glibc that allows system call capturing - devel
  This package contains the development files for libvdestack
 
 Package: libpurelibc1
-Section: libs
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
